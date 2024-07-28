@@ -34,4 +34,8 @@ For the original graph:
 Considering the graph as an undirected graph:
 
 14. Display the size of the largest weakly connected component (WCC) 
-15. Display the size distribution of all WCCs 
+15. Display the size distribution of all WCCs
+
+To run the source, create a sample project on any IDE or launch a C++ friendly environment.
+Add source as source and move the text files in the same folder.
+Simply run the "source".
